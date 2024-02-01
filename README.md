@@ -27,5 +27,5 @@ and electrostatic principles
 A Wireless cameras work by transmitting the camera's video through a radio (RF) transmitter. The video is sent
 to a receiver that is connected to a built-in storage device or through cloud storage. Through your monitor or
 receiver, you'll have an easy link to access all of your image or video clips.
-##HARDWARE SETUP
+## HARDWARE SETUP
 ![Circuit](https://github.com/anu2a/Smart-Cradle-System/assets/117003966/a703425a-e269-4d54-9a4a-e8ec94e7a223)
